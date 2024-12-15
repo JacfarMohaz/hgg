@@ -1,0 +1,96 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(5, 113, 149,0.8), rgb(128, 0, 128,0.7))
+}
+
+/* form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.4em;
+    color: purple;
+    margin-bottom: 40px;
+}
+
+form label{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.formOne{
+    display: flex;
+    gap: 30px;
+}
+
+.formOne input{
+    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    padding-left: 15px;
+    border: none;
+    outline-color: purple;
+    font-size: 1em;
+    background-color: rgb(193, 184, 184);
+}
+
+#phone{
+    width: 445px;
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 15px;
+    outline-color: purple;
+    background-color: rgb(193, 184, 184);
+}
+
+
+textarea{
+    width: 440px;
+    height: 200px;
+    border-radius: 20px;
+    border: none;
+    outline-color: purple;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(193, 184, 184);
+} */
+
+
+input{
+    width: 800px;
+    height: 40px;
+    font-size: 2em;
+    border-radius: 20px;
+    padding-left: 6%;
+    border: none;
+    outline: none;
+}
+form{
+    position: relative;
+}
+#iconOne{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    font-size: 2em;
+}
+
+#iconTwo{
+    position: absolute;
+    right: 40px;
+    top: 6px;
+    font-size: 2em;
+}
+#iconThree{
+    position: absolute;
+    right: -20px;
+    top: 6px;
+    font-size: 2em;
+}
